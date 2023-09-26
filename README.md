@@ -4,6 +4,8 @@ leetcode地址
 https://leetcode.cn/problemset/all/
 刷题顺序参考网站
 https://programmercarl.com/
+github地址
+https://gitee.com/programmercarl/leetcode-master
 
 顺序题目名
 ![image](https://github.com/wsc666666/fightLeetCode/assets/51894854/8f4ffa4c-a4a6-4c09-abeb-4f514d514c6d)
